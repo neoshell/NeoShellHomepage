@@ -1,0 +1,46 @@
+.main {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 240px;
+  height: 200px;
+  margin: -100px 0 0 -120px;
+  color: #AAAAAA;
+  font: larger Lato, Roboto, sans-serif;
+  height: 200px;
+}
+
+.title {
+  margin: 0 0 10px -5px;
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.list {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.icon {
+  margin: 0 5px 0 0;
+}
+
+a:link {
+  color: #AAAAAA;
+  text-decoration: none
+}
+
+a:visited {
+  color: #AAAAAA;
+  text-decoration: none
+}
+
+a:hover {
+  color: #666666;
+  text-decoration: none
+}
+
+a:active {
+  color: #0000FF;
+  text-decoration: none
+}
