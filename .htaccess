@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+rewritecond %{http_host} ^neoshell.moe [nc]
+rewriterule ^(.*)$ https://www.neoshell.moe/$1 [r=301,nc]
