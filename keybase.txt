@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/neoshell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.neoshell.moe
+  * I am neoshell (https://keybase.io/neoshell) on keybase.
+  * I have a public key with fingerprint 28A6 A633 416C 7B02 3106  CC7A 316A BD60 D498 895D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e34ad209152157fc0625cf042f94a153d204299002032bec445fa29f2e0658eb0a",
+      "fingerprint": "28a6a633416c7b023106cc7a316abd60d498895d",
+      "host": "keybase.io",
+      "key_id": "316abd60d498895d",
+      "kid": "0101eea285ca03db148898fda6b8cca78d49b54af9cfc748ca73b0f8df3e6d1c85880a",
+      "uid": "bee9689bf3590a60600062f9ae5f1219",
+      "username": "neoshell"
+    },
+    "service": {
+      "hostname": "www.neoshell.moe",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1518495224,
+  "expire_in": 157680000,
+  "prev": "b4223bb7c50232ca037391917fee4fa6b68e98a488198c70b8294b64b404746d",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNtAnicbVJpTFxVGJ2hLAJFmwgpwYL4MlSChN63vze2oiXSCLGMFLVhKbzlvmFk
+OjPOBoRSU9AKAqH+AGmAhHRBigXRLqBSEmDQNtAWUsSBurSVJZYKbQAlBK33kfLP
+Xzf3+8453/lOPk/IFk2QFn/vSt54Q2WOdri/yaXJLIOrJZholYsxfQlWADceaJah
+w5lbYJIxPQZwAkCSEmQC8DhN4DSrSIAhaEkBFKHwlIDTJOpRBM8DQACSEKFEUbQi
+ELxCQMDQHBSBgMVjislihHab3WRxIlmCExiBIUkKZyRWBASJA0aSWIHEGUGUGSBT
+PMfxtIyI+VaHykDmRMEBE0xWVEOf3A17/4Pf9A1wCAWCoyUBkLKIU6jPKbLAiJwk
+CSyHGCJNCQovKRJLcahEikDhZIWEjIxLHM1xG75dG3IihDzD8aJC0jwQGMAAgFJQ
+eAHSCk7gvAp0QLtFOAwR2gKtjnxoNmOl8Riquk0SVINVN3mCKCwsTNhEJRy2QsS3
+2a1Oq2Q1o26+02lz6FW2s9i2AYdi7hOhXNFkkVGWiOGGdofJasH0OEJKTpOqjNM4
+R/E0QVDxGCyymeww16QiaJbhkGegzoFudSOKIEhRZCUapU+oIbEkj/M4q0BIKSgm
+hoM8J6DYcJ6TWCByBE+JDCVSgGIpRk3aAd+3WJE2GuUUjEjTYTJaBKfLDrHSgf5s
+X402SOPv56MemSYocNvm6bX6PPNYaaoNLZ49Gdv5EMcTI1fSHvi1ftU+0fnt6ro3
+1bUTlEQODhrO9UV1S6eu/pLVu3Ty2Ufn77f7Lo+5A4IzuYnpFTFzwdY/ZQi+2Dji
+a3i19pgzcHFu9n5R2Mcx34VRi675K70tMX9eGJ8+VE8lpQSzNxr3RqyfOnKX8+rm
+vh7tyhGqrt89Ht8aoVk629B0b/iL5TnP7ayMibS58t09NSfCrmqHfrj5+lZv8L6/
+UwMG6rp0E+yJqmOnd8bp2F1Nn//4dHuleVfALAj99DU39c/ZtGBR6w/woqQUJxxs
+qStnV5dGunc8jtUW/7zU4c9fOHjkYfn0vhyvRtexXlLd01sMhB2K7kB6Hjf17to8
+ZgnJuzb8gmG6ai32YgLPHq34a+WPJP3vHbK7Idwn8CVXWtxCc3x0c8zIHZjw4dhb
+ZdnGlxO3y4nP/5t9fXfimyWf2RbdN0tjo1ffTqmMOu53z5yT9H1PgPFQ2blbUdUh
+6ZerBmZ+S/1osvbS+Exfm/m2b/1QS0tGf+j8/kc/fRAec/DXpJGjZUWn39h/+Z3G
+vTMvtseaZ601xsnz/HN72taiNTme7d1V6WdGs4cb9Mk3gryeby4VdC1tKe1qjvyk
+Irn+TniySH75SoOr8akA/zOeuorOB4a4PteemmsGaijdNDlVjQUdWPbb5o3Oitgq
+ejJutS2Mjrmjoe4/LMLCLA==
+=U532
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/neoshell
+
+==================================================================
