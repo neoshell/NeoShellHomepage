@@ -6,18 +6,18 @@ I hereby claim:
 
   * I am an admin of https://www.neoshell.moe
   * I am neoshell (https://keybase.io/neoshell) on keybase.
-  * I have a public key with fingerprint 28A6 A633 416C 7B02 3106  CC7A 316A BD60 D498 895D
+  * I have a public key with fingerprint DC9B F956 CF19 A520 D816  0E78 AE52 E336 4B5C DA63
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e34ad209152157fc0625cf042f94a153d204299002032bec445fa29f2e0658eb0a",
-      "fingerprint": "28a6a633416c7b023106cc7a316abd60d498895d",
+      "eldest_kid": "0101ec71ca613402ac5e8dffaf8c8795e8c36c81a012f2f6e9a75f91c39c3f3264e70a",
+      "fingerprint": "dc9bf956cf19a520d8160e78ae52e3364b5cda63",
       "host": "keybase.io",
-      "key_id": "316abd60d498895d",
-      "kid": "0101eea285ca03db148898fda6b8cca78d49b54af9cfc748ca73b0f8df3e6d1c85880a",
+      "key_id": "ae52e3364b5cda63",
+      "kid": "0101ec71ca613402ac5e8dffaf8c8795e8c36c81a012f2f6e9a75f91c39c3f3264e70a",
       "uid": "bee9689bf3590a60600062f9ae5f1219",
       "username": "neoshell"
     },
@@ -28,10 +28,10 @@ To do so, I am signing this object:
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1518495224,
+  "ctime": 1518689081,
   "expire_in": 157680000,
-  "prev": "b4223bb7c50232ca037391917fee4fa6b68e98a488198c70b8294b64b404746d",
-  "seqno": 14,
+  "prev": "4a1052162ed419911871ec0d7ff17f1615d7901e148d85d4cf37f8d10a87b519",
+  "seqno": 20,
   "tag": "signature"
 }
 
@@ -41,30 +41,23 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.76
 Comment: https://keybase.io/crypto
 
-yMNtAnicbVJpTFxVGJ2hLAJFmwgpwYL4MlSChN63vze2oiXSCLGMFLVhKbzlvmFk
-OjPOBoRSU9AKAqH+AGmAhHRBigXRLqBSEmDQNtAWUsSBurSVJZYKbQAlBK33kfLP
-Xzf3+8453/lOPk/IFk2QFn/vSt54Q2WOdri/yaXJLIOrJZholYsxfQlWADceaJah
-w5lbYJIxPQZwAkCSEmQC8DhN4DSrSIAhaEkBFKHwlIDTJOpRBM8DQACSEKFEUbQi
-ELxCQMDQHBSBgMVjislihHab3WRxIlmCExiBIUkKZyRWBASJA0aSWIHEGUGUGSBT
-PMfxtIyI+VaHykDmRMEBE0xWVEOf3A17/4Pf9A1wCAWCoyUBkLKIU6jPKbLAiJwk
-CSyHGCJNCQovKRJLcahEikDhZIWEjIxLHM1xG75dG3IihDzD8aJC0jwQGMAAgFJQ
-eAHSCk7gvAp0QLtFOAwR2gKtjnxoNmOl8Riquk0SVINVN3mCKCwsTNhEJRy2QsS3
-2a1Oq2Q1o26+02lz6FW2s9i2AYdi7hOhXNFkkVGWiOGGdofJasH0OEJKTpOqjNM4
-R/E0QVDxGCyymeww16QiaJbhkGegzoFudSOKIEhRZCUapU+oIbEkj/M4q0BIKSgm
-hoM8J6DYcJ6TWCByBE+JDCVSgGIpRk3aAd+3WJE2GuUUjEjTYTJaBKfLDrHSgf5s
-X402SOPv56MemSYocNvm6bX6PPNYaaoNLZ49Gdv5EMcTI1fSHvi1ftU+0fnt6ro3
-1bUTlEQODhrO9UV1S6eu/pLVu3Ty2Ufn77f7Lo+5A4IzuYnpFTFzwdY/ZQi+2Dji
-a3i19pgzcHFu9n5R2Mcx34VRi675K70tMX9eGJ8+VE8lpQSzNxr3RqyfOnKX8+rm
-vh7tyhGqrt89Ht8aoVk629B0b/iL5TnP7ayMibS58t09NSfCrmqHfrj5+lZv8L6/
-UwMG6rp0E+yJqmOnd8bp2F1Nn//4dHuleVfALAj99DU39c/ZtGBR6w/woqQUJxxs
-qStnV5dGunc8jtUW/7zU4c9fOHjkYfn0vhyvRtexXlLd01sMhB2K7kB6Hjf17to8
-ZgnJuzb8gmG6ai32YgLPHq34a+WPJP3vHbK7Idwn8CVXWtxCc3x0c8zIHZjw4dhb
-ZdnGlxO3y4nP/5t9fXfimyWf2RbdN0tjo1ffTqmMOu53z5yT9H1PgPFQ2blbUdUh
-6ZerBmZ+S/1osvbS+Exfm/m2b/1QS0tGf+j8/kc/fRAec/DXpJGjZUWn39h/+Z3G
-vTMvtseaZ601xsnz/HN72taiNTme7d1V6WdGs4cb9Mk3gryeby4VdC1tKe1qjvyk
-Irn+TniySH75SoOr8akA/zOeuorOB4a4PteemmsGaijdNDlVjQUdWPbb5o3Oitgq
-ejJutS2Mjrmjoe4/LMLCLA==
-=U532
+yMIsAnicrVJbSBRRGF6tDDe8dEFBsMu8VLDIOTM7Z+ZsZRfoHoXQjS5sZ2fO0and
+mW1n1MxLQfQgRdCNfLBSutHF7EKpRGiiZpYVKEZFYFBa0kskIW1RZ5Z867Gnw/+f
+7/v+7//4O9ImeLxJbzaPTguPfWlPevqottiz7fB2XC6ELL1MCJQLe2jioWGd2k5w
+j6ELAQFAAKmmQI0gKPmBSDSZqjpjhKmaqmBeaBLSVEgAFJnIEMVEkRmGmoQ1iUki
+8lMFEMEnMMMspLFozDAdLqtrOMSwjDQGMZFFoKsQAaqohMoilSTkD8maTpDEiUWW
+7TK4uRCxaZ5h8R4vggl7/8D/Z9/FCbkQpRip3LMkY0AQQAAAJDLM5zMoQuwCbRoz
+SYRytEktu4iGw0KlT+DdEkOjbrDuJn8RpaWleeOovIhFOT8asxxLs8L8t8hxonbA
+ZTtl0QSchoJ/hYIhw9R5lpxRQmO2YZlCAHKk5hiuMpShyo0CFfoEui9qxGjQcBGy
+glTuGbhzaAmX9BMIZBEikep+iDGEqsIDA7rCGFQYRFDWFcwzhH5VV2XdrzFJYaoO
+AVGVkJzY2KZ7TUsIiFzUIYVc0zYKTeIUx6hQ2d62Y6InyetJmZTsHpnHm5o5fnpd
+lZN/rxvutMLVTzqrl12eUvDr/O7Ve9PJK2/ateDo2uZLbw8tqckamFrVOGFF/o4O
+4XpOfltlxdmvUl3uik2fTrYlj9UPodazGUUn+m+9aJheNXj88zvhXG5W65Tz0Z4y
+9OzQ3NZ7Px9vWfjmYTywswtU3e8eiSyt9234WNDXv2t2S7z7cHMgfrpi5daRRUf3
+L7t3YXlfWuapW8dqrz6oJlmbsrF5sfHg0PCd3nl1zVfeZ0ZSS+sGIw2zg8+PeFfN
+un1x/vqW5zC5xqqo/zFzc+6C9AP94fgHz4EZ7ML1gR4sZBdubDoDxtLnNtV+X5QT
+f72vd412t3Nx77f87akdN24OZ1xiL5WUOX8ABCZHdw==
+=kXH2
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
